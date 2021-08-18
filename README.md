@@ -9,6 +9,5 @@ KEY BINDINGS:</br>
 </br>
 RULES: </br>
 - Ensure that the turtle reaches the other end of the screen without colliding with any of the cars. </br>
-- Once the turtle reaches the destination, it will be spawned back to the starting position for the next level and the speed of</br>
-  the cars moving on the road will also increase.</br>
+- Once the turtle reaches the destination, it will be spawned back to the starting position for the next level and the speed of the cars moving on the road will also increase.</br>
 - If the turtle suffers a collision then your game is over. </br>
